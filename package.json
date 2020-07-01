@@ -1,0 +1,39 @@
+{
+    "name": "flutter",
+    "displayName": "Ultimate Flutter Extension Pack",
+    "description": "The Ultimate pack which includes every extension you will ever need for Flutter development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dart-code.flutter",
+        "dart-code.dart-code",
+        "nash.awesome-flutter-snippets",
+        "alexisvt.flutter-snippets",
+        "circlecodesolution.ccs-flutter-color",
+        "jeroen-meijer.pubspec-assist",
+        "felixangelov.bloc",
+        "everettjf.pubspec-dependency-search",
+        "aaron-bond.better-comments",
+        "usernamehw.errorlens",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "pkief.material-icon-theme",
+        "tzachovadia.todo-list",
+        "visualstudioexptteam.vscodeintellicode",
+        "donjayamanne.githistory",
+        "hnw.vscode-auto-open-markdown-preview",
+        "coenraads.bracket-pair-colorizer",
+        "moyu.snapcode",
+        "gruntfuggly.todo-tree",
+        "ritwickdey.liveserver"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/username/extension-repo"
+    }
+}
