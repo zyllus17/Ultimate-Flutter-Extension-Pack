@@ -9,31 +9,33 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "dartXflutter.png", 
     "extensionPack": [
-        "dart-code.flutter",
-        "dart-code.dart-code",
         "nash.awesome-flutter-snippets",
-        "alexisvt.flutter-snippets",
-        "circlecodesolution.ccs-flutter-color",
-        "jeroen-meijer.pubspec-assist",
         "felixangelov.bloc",
+        "dart-code.dart-code",
+        "dart-code.flutter",
+        "circlecodesolution.ccs-flutter-color",
+        "alexisvt.flutter-snippets",
+        "jeroen-meijer.pubspec-assist",
         "everettjf.pubspec-dependency-search",
+        
         "aaron-bond.better-comments",
-        "usernamehw.errorlens",
-        "eamodio.gitlens",
-        "mhutchie.git-graph",
-        "pkief.material-icon-theme",
-        "tzachovadia.todo-list",
-        "visualstudioexptteam.vscodeintellicode",
-        "donjayamanne.githistory",
-        "hnw.vscode-auto-open-markdown-preview",
         "coenraads.bracket-pair-colorizer",
+        "usernamehw.errorlens",
+        "pkief.material-icon-theme",
         "moyu.snapcode",
         "gruntfuggly.todo-tree",
-        "ritwickdey.liveserver"
+        "visualstudioexptteam.vscodeintellicode",
+
+        "hnw.vscode-auto-open-markdown-preview",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/username/extension-repo"
+        "url": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack.git"
     }
+    
 }
