@@ -77,14 +77,14 @@
 
 ## Created & Maintained by
 | <a href="https://github.com/zyllus17" target="_blank">**Maruf Hassan**</a> |
-| :---: |:---:| :---:|
+
 <img src="https://avatars3.githubusercontent.com/u/50977126?s=500&u=831029aa1f8c979350367229f98721d9ea6e6ca5&v=4)](https://github.com/zyllus17" width=150 height=150>
 
  ---
 
 ## Logo Designing
 | <a href="https://www.facebook.com/Sk.rehanahmed/" target="_blank">**Sk Rehan Ahamed**</a> |
-| :---: |:---:| :---:|
+
 <img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.0-9/49798894_533136837193798_497610469918375936_o.jpg?_nc_cat=111&_nc_sid=174925&_nc_ohc=YtW4QiRvOBUAX83Xo6X&_nc_ht=scontent.fccu1-1.fna&oh=2407c4162f682566d43962e60849df16&oe=5F228704" width=150 height=150>
 
 # Contributing
