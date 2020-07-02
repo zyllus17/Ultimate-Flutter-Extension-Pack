@@ -9,7 +9,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "icon": "dartXflutter.png",
+    "icon": "images/dartXflutter.png",
     "publisher": "MarufHassan",
     "extensionPack": [
         "nash.awesome-flutter-snippets",
