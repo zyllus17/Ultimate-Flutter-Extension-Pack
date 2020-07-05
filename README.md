@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack"><img src="images/dartXflutter.png" title="Ultimate Flutter Extension Pack" alt="FVCproductions"></a></div>
+<div align="center"> <a href="https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack"><img src="images/dartXflutter.png" title="Ultimate Flutter Extension Pack" alt="Ultimate Flutter Extension Pack"></a></div>
 
 
 # Ultimate Flutter Extension Pack
@@ -6,14 +6,11 @@
 
  ---
 
-***Gif on how to install the package coming soon***
-
----
-
 ## Table of Contents
 
 - [Installation](#installation)
 - [Extensions](#extensions)
+- [Contributors](#contributors)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -21,12 +18,14 @@
 
 # Installation
 
+![Ultimate Flutter Extension Pack](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/images/Ultimate%20Extension%20Flutter.gif)
+
 - Open VS Code and click on Extensions Icon in the Activity Bar.
 - Type **Ultimate Flutter Extension Pack**
 - Install the Extension Pack.
 
 
-# Extensions in this Pack
+# Extensions
 
 ## Flutter Extensions
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
@@ -75,26 +74,31 @@
 
 # Contributors
 
-## Created & Maintained by
-| <a href="https://github.com/zyllus17" target="_blank">**Maruf Hassan**</a> |
+ <table>
+  <tr>
+    <td align="center"><a href="https://github.com/zyllus17"><img src="https://avatars3.githubusercontent.com/u/50977126?s=500&u=831029aa1f8c979350367229f98721d9ea6e6ca5&v=4)](https://github.com/zyllus17" width="100px;" alt=""/><br /><sub><b>Maruf Hassan</b></sub></a><br /><a href="#creator" title="Creator">🌐</a> <a href="https://github.com/zyllus17" title="Documentation">📖</a> <a href="https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/pulls" title="Review Pull Requests">👀</a> <a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
+    </td>
+    <td align="center"><a href="https://www.facebook.com/Sk.rehanahmed/"><img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.0-9/49798894_533136837193798_497610469918375936_o.jpg?_nc_cat=111&_nc_sid=174925&_nc_ohc=YtW4QiRvOBUAX83Xo6X&_nc_ht=scontent.fccu1-1.fna&oh=2407c4162f682566d43962e60849df16&oe=5F228704" width="100px;" alt=""/><br /><sub><b>tbenning</b></sub></a><br /><a href="#design-tbenning" title="Logo Designing">🎨</a> </td>
+    </tr>
+    </table>
 
-<img src="https://avatars3.githubusercontent.com/u/50977126?s=500&u=831029aa1f8c979350367229f98721d9ea6e6ca5&v=4)](https://github.com/zyllus17" width=150 height=150>
-
- ---
-
-## Logo Designing
-| <a href="https://www.facebook.com/Sk.rehanahmed/" target="_blank">**Sk Rehan Ahamed**</a> |
-
-<img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.0-9/49798894_533136837193798_497610469918375936_o.jpg?_nc_cat=111&_nc_sid=174925&_nc_ohc=YtW4QiRvOBUAX83Xo6X&_nc_ht=scontent.fccu1-1.fna&oh=2407c4162f682566d43962e60849df16&oe=5F228704" width=150 height=150>
 
 # Contributing
 
  **Contributing is highly welcomed. I intend to update the Extensions monthly to keep it updated with the best extensions.**
 
 
-You can contact me on [Twitter](https://twitter.com/MarufHassan5) / [Messenger](https://www.messenger.com/t/marufhassan17) with your Extensions or Create a new issue and tag it with feature and mention the Extension name with the Publisher Name and provide the Extension link.
+Create a new issue and tag it with feature and mention the Extension name with the Publisher Name and provide the Extension link.
+
+## Contact me 
+
+<a href="https://twitter.com/zyllus17"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/maruf-hassan/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
 ---
 ## License
 
 - **[MIT license](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/LICENSE)**
+
+
+
