@@ -87,10 +87,18 @@
 
  **Contribution is welcomed. I intend to update the Extensions monthly to keep it updated with the best extensions.**
  
+ ## How to contribute?
+ 
+ ### Follow the process below.
+
+
 ![How to suggest new Extensions](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/images/Issues.gif)
 
 
-Create a new issue and click Extension request and mention the Extension name with the Publisher Name and provide the Extension link.
+
+- Create a new issue 
+- Click on Extension request 
+- Mention the Extension name with the Publisher Name and provide the Extension link.
 
 ## Contact me 
 
