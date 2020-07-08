@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Extensions](#extensions)
 - [Contributors](#contributors)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [License](#license)
 
 ---
@@ -78,17 +78,17 @@
   <tr>
     <td align="center"><a href="https://github.com/zyllus17"><img src="https://avatars3.githubusercontent.com/u/50977126?s=500&u=831029aa1f8c979350367229f98721d9ea6e6ca5&v=4)](https://github.com/zyllus17" width="100px;" alt=""/><br /><sub><b>Maruf Hassan</b></sub></a><br /><a href="#creator" title="Creator">🌐</a> <a href="https://github.com/zyllus17" title="Documentation">📖</a> <a href="https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/pulls" title="Review Pull Requests">👀</a> <a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
     </td>
-    <td align="center"><a href="https://www.facebook.com/Sk.rehanahmed/"><img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.0-9/49798894_533136837193798_497610469918375936_o.jpg?_nc_cat=111&_nc_sid=174925&_nc_ohc=YtW4QiRvOBUAX83Xo6X&_nc_ht=scontent.fccu1-1.fna&oh=2407c4162f682566d43962e60849df16&oe=5F228704" width="100px;" alt=""/><br /><sub><b>tbenning</b></sub></a><br /><a href="#design-tbenning" title="Logo Designing">🎨</a> </td>
+    <td align="center"><a href="https://www.facebook.com/Sk.rehanahmed/"><img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.0-9/49798894_533136837193798_497610469918375936_o.jpg?_nc_cat=111&_nc_sid=174925&_nc_ohc=YtW4QiRvOBUAX83Xo6X&_nc_ht=scontent.fccu1-1.fna&oh=2407c4162f682566d43962e60849df16&oe=5F228704" width="100px;" alt=""/><br /><sub><b>Sk Rehan Ahmed</b></sub></a><br /><a href="#design-tbenning" title="Logo Designing">🎨</a> </td>
     </tr>
     </table>
 
 
-# Contributing
+# Contribution
 
- **Contributing is highly welcomed. I intend to update the Extensions monthly to keep it updated with the best extensions.**
+ **Contribution is welcomed. I intend to update the Extensions monthly to keep it updated with the best extensions.**
+![How to suggest new Extensions](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/images/Issues.gif)
 
-
-Create a new issue and tag it with feature and mention the Extension name with the Publisher Name and provide the Extension link.
+Create a new issue and click Extension request and mention the Extension name with the Publisher Name and provide the Extension link.
 
 ## Contact me 
 
