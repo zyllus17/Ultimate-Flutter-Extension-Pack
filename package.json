@@ -2,7 +2,7 @@
     "name": "flutter",
     "displayName": "Ultimate Flutter Extension Pack",
     "description": "The Ultimate pack which includes every extension you will ever need for Flutter development",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -20,7 +20,6 @@
         "alexisvt.flutter-snippets",
         "jeroen-meijer.pubspec-assist",
         "everettjf.pubspec-dependency-search",
-        
         "aaron-bond.better-comments",
         "coenraads.bracket-pair-colorizer",
         "usernamehw.errorlens",
@@ -28,7 +27,6 @@
         "moyu.snapcode",
         "gruntfuggly.todo-tree",
         "visualstudioexptteam.vscodeintellicode",
-
         "hnw.vscode-auto-open-markdown-preview",
         "mhutchie.git-graph",
         "donjayamanne.githistory",
@@ -38,5 +36,4 @@
         "type": "git",
         "url": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack.git"
     }
-    
 }
