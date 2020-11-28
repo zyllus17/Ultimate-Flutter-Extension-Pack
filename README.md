@@ -27,7 +27,6 @@
 
 # Extensions
 
-=======
 ### You can read the blog on how to use each Extension on [Medium](https://medium.com/@maruf.hassan/the-ultimate-vs-code-extensions-for-working-with-flutter-8e75232e6f98)
 
 ## Flutter Extensions
