@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "Flutter" extension pack will be documented in this file.
+All notable changes to the "Ultimate Flutter Extension Pack" is documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
@@ -13,3 +13,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added how to contribute GIF
 - Fixed [README.md](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/README.md)
 - Added [blog](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter) explaining how to use every Extension
+
+## [0.0.3]
+
+- Added Dart Barrel File Generator [Extension] to create barrels for cleaner architechture
+- Added REST Client [Extension]
+- Added Chronicler [Extension] for recording VSCode screen
+- Added older versions of the extension pack .vsix in versions folder
+- Updated [README.md] with the new extensions

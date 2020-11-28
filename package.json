@@ -30,7 +30,10 @@
         "hnw.vscode-auto-open-markdown-preview",
         "mhutchie.git-graph",
         "donjayamanne.githistory",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "miquelddg.dart-barrel-file-generator",
+        "humao.rest-client",
+        "arcsine.chronicler"
     ],
     "repository": {
         "type": "git",
