@@ -27,6 +27,8 @@
 
 # Extensions
 
+### You can read the blog on how to use each Extension in this [blog](https://medium.com/@maruf.hassan/the-ultimate-vs-code-extensions-for-working-with-flutter-8e75232e6f98)
+
 ## Flutter Extensions
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
 
@@ -44,6 +46,7 @@
 
 * [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.
 
+* [Dart Barrel File Generator](https://marketplace.visualstudio.com/items?itemName=miquelddg.dart-barrel-file-generator&ssr=false#overview) - Generates barrel files for dart projects and Flutter apps.
 ## Productivity Extensions
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 
@@ -60,7 +63,9 @@
 
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 
+* [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code.
 
+* [Chronicler](https://marketplace.visualstudio.com/items?itemName=arcsine.chronicler) - Screen Recorder for VS Code
 ## Git Extensions
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview) - Open Markdown preview automatically when opening a Markdown file.
 * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
@@ -78,7 +83,7 @@
   <tr>
     <td align="center"><a href="https://github.com/zyllus17"><img src="https://avatars3.githubusercontent.com/u/50977126?s=500&u=831029aa1f8c979350367229f98721d9ea6e6ca5&v=4)](https://github.com/zyllus17" width="100px;" alt=""/><br /><sub><b>Maruf Hassan</b></sub></a><br /><a href="#creator" title="Creator">🌐</a> <a href="https://github.com/zyllus17" title="Documentation">📖</a> <a href="https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/pulls" title="Review Pull Requests">👀</a> <a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
     </td>
-    <td align="center"><a href="https://www.facebook.com/Sk.rehanahmed/"><img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.0-9/49798894_533136837193798_497610469918375936_o.jpg?_nc_cat=111&_nc_sid=174925&_nc_ohc=YtW4QiRvOBUAX83Xo6X&_nc_ht=scontent.fccu1-1.fna&oh=2407c4162f682566d43962e60849df16&oe=5F228704" width="100px;" alt=""/><br /><sub><b>Sk Rehan Ahmed</b></sub></a><br /><a href="#design-tbenning" title="Logo Designing">🎨</a> </td>
+    <td align="center"><a href="https://www.facebook.com/Sk.rehanahmed/"><img src="https://user-images.githubusercontent.com/50977126/100517961-a2cab500-31b4-11eb-9d36-a4bfc20c87a3.png" width="100px;" alt=""/><br /><sub><b>Sk Rehan Ahmed</b></sub></a><br /><a href="#design-tbenning" title="Logo Designing">🎨</a> </td>
     </tr>
     </table>
 
