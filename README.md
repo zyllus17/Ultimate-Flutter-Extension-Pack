@@ -40,7 +40,7 @@
 
 * [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - A user friendly plugin to help you work with ARGB Color in VS Code, for any project. 
 
-* [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) - A set of helpful widget snippets for day to day Flutter development.
+* [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets) - Supercharge your Flutter workflow with handy Snippets for VS Code
 
 * [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) - Easily add dependencies to your Dart / Flutter project.
 

@@ -2,7 +2,7 @@
     "name": "flutter",
     "displayName": "Ultimate Flutter Extension Pack",
     "description": "The Ultimate pack which includes every extension you will ever need for Flutter development",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -17,7 +17,6 @@
         "dart-code.dart-code",
         "dart-code.flutter",
         "circlecodesolution.ccs-flutter-color",
-        "alexisvt.flutter-snippets",
         "jeroen-meijer.pubspec-assist",
         "everettjf.pubspec-dependency-search",
         "aaron-bond.better-comments",
@@ -33,10 +32,21 @@
         "eamodio.gitlens",
         "miquelddg.dart-barrel-file-generator",
         "humao.rest-client",
-        "arcsine.chronicler"
+        "arcsine.chronicler",
+        "MarufHassan.flutter-snippets"
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack.git"
+    },
+    "keywords": [
+        "Flutter",
+        "Dart",
+        "Snippets"
+    ],
+    "homepage": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack",
+    "bugs": {
+        "url": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/issues",
+        "email": "csengineer.maruf@gmail.com"
     }
 }
