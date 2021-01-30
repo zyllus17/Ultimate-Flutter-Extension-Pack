@@ -21,3 +21,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added Chronicler [Extension] for recording VSCode screen
 - Added older versions of the extension pack .vsix in versions folder
 - Updated [README.md] with the new extensions
+
+## [0.0.4]
+
+- Removed Flutter Widget Snippets ✂️
+- Added Flutter Snippets ✅
