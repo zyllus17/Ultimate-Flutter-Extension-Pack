@@ -26,3 +26,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Removed Flutter Widget Snippets ✂️
 - Added Flutter Snippets ✅
+
+## [0.0.5]
+
+- Removed Awesome Flutter Snippets because its causing issues with Flutter Snippets.
+- Added `Extension Packs` keyword
