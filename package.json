@@ -2,7 +2,7 @@
     "name": "flutter",
     "displayName": "Ultimate Flutter Extension Pack",
     "description": "The Ultimate pack which includes every extension you will ever need for Flutter development",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -12,7 +12,6 @@
     "icon": "images/dartXflutter.png",
     "publisher": "MarufHassan",
     "extensionPack": [
-        "nash.awesome-flutter-snippets",
         "felixangelov.bloc",
         "dart-code.dart-code",
         "dart-code.flutter",
@@ -42,7 +41,8 @@
     "keywords": [
         "Flutter",
         "Dart",
-        "Snippets"
+        "Snippets",
+        "Extension Packs"
     ],
     "homepage": "https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack",
     "bugs": {
