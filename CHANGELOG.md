@@ -31,3 +31,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Removed Awesome Flutter Snippets because its causing issues with Flutter Snippets.
 - Added `Extension Packs` keyword
+
+## [0.0.6]
+
+- Added Dart Data Class Generator [Extension]
+- Added Version Lens [Extension]
+- Added XML Format [Extension]
+- Added YAML [Extension]
+- Added Code Spell Checker [Extension]
+- Added markdownlint [Extension]
+
+- Removed Flutter Color [Extension] inbuilt in VSCode now.
+- Removed Pubspec Assist [Extension] inbuilt in VSCode now.
+- Removed Bracket Pair Colorizer [Extension] inbuilt in VSCode now.
+- Removed SnapCode [Extension]
+- Removed Auto-Open Markdown Preview [Extension] inbuilt in VSCode now.
+- Replaced REST Client [Extension] with Thunder Client [Extension]
+
+- Updated [README.md] with the new extensions
