@@ -1,10 +1,10 @@
 <div align="center"> <a href="https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack"><img src="images/dartXflutter.png" title="Ultimate Flutter Extension Pack" alt="Ultimate Flutter Extension Pack"></a></div>
 
-
 # Ultimate Flutter Extension Pack
- The Ultimate Extension Pack which includes every extension you will ever need for Flutter development.
 
- ---
+The Ultimate Extension Pack which includes every extension you will ever need for Flutter development.
+
+---
 
 ## Table of Contents
 
@@ -18,62 +18,57 @@
 
 # Installation
 
-![Ultimate Flutter Extension Pack](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/images/Ultimate%20Extension%20Flutter.gif)
+![Ultimate Flutter Extension Pack](images/Ultimate%20Extension%20Flutter.gif)
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
 - Type **Ultimate Flutter Extension Pack**
 - Install the Extension Pack.
 
-
 # Extensions
 
-### You can read the blog on how to use each Extension on [Medium](https://medium.com/@maruf.hassan/the-ultimate-vs-code-extensions-for-working-with-flutter-8e75232e6f98)
+## You can read the blog on how to use each Extension on [Medium](https://medium.com/@maruf.hassan/the-ultimate-vs-code-extensions-for-working-with-flutter-8e75232e6f98)
 
 ## Flutter Extensions
-* [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
 
-* [BLOC](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) - Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
 
-* [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
 
-* [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
+- [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets) - Supercharge your Flutter workflow with handy Snippets for VS Code
 
-* [Flutter Color](https://marketplace.visualstudio.com/items?itemName=circlecodesolution.ccs-flutter-color) - A user friendly plugin to help you work with ARGB Color in VS Code, for any project. 
+- [BLOC](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc) - Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.
 
-* [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=MarufHassan.flutter-snippets) - Supercharge your Flutter workflow with handy Snippets for VS Code
+- [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.
 
-* [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) - Easily add dependencies to your Dart / Flutter project.
+- [Dart Barrel File Generator](https://marketplace.visualstudio.com/items?itemName=miquelddg.dart-barrel-file-generator&ssr=false#overview) - Generates barrel files for dart projects and Flutter apps.
 
-* [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.
+- [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.dart-data-class-tools) - Create dart data classes easily, fast and without writing boilerplate or running code generation
 
-* [Dart Barrel File Generator](https://marketplace.visualstudio.com/items?itemName=miquelddg.dart-barrel-file-generator&ssr=false#overview) - Generates barrel files for dart projects and Flutter apps.
 ## Productivity Extensions
-* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 
-* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 
-* [Snapcode](https://marketplace.visualstudio.com/items?itemName=moyu.snapcode) - Snapcode for your code.
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree) - Manage todo lists with ease. Powerful, easy to use and customizable.
 
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
 
-* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree) - Manage todo lists with ease. Powerful, easy to use and customizable.
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) - Lightweight Rest API Client for VS Code
 
-* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens
 
-* [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST Client for Visual Studio Code.
+- [XML Format](https://marketplace.visualstudio.com/items?itemName=mikeburgh.xml-format) - Format XML documents
 
-* [Chronicler](https://marketplace.visualstudio.com/items?itemName=arcsine.chronicler) - Screen Recorder for VS Code
-## Git Extensions
-* [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview) - Open Markdown preview automatically when opening a Markdown file.
-* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 
-* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
 
-* [GitLens Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code .Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 
+- [GitLens Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code .Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 
 ---
 
@@ -87,33 +82,27 @@
     </tr>
     </table>
 
-
 # Contribution
 
- **Contribution is welcomed. I intend to update the Extensions monthly to keep it updated with the best extensions.**
- 
- ## How to contribute?
- 
- ### Follow the process below.
+**Contribution is welcomed. I intend to update the Extensions monthly to keep it updated with the best extensions.**
 
+## How to contribute?
 
-![How to suggest new Extensions](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/images/Issues.gif)
+### Follow the process below
 
+![How to suggest new Extensions](images/Issues.gif)
 
-
-- Create a new issue 
-- Click on Extension request 
+- Create a new issue
+- Click on Extension request
 - Mention the Extension name with the Publisher Name and provide the Extension link.
 
-## Contact me 
+## Contact me
 
 <a href="https://twitter.com/zyllus17"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/maruf-hassan/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 
 ---
+
 ## License
 
 - **[MIT license](https://github.com/zyllus17/Ultimate-Flutter-Extension-Pack/blob/master/LICENSE)**
-
-
-
